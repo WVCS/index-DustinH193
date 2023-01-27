@@ -1,3 +1,4 @@
+<style>
 <html>
   <head>
   </head>
@@ -21,7 +22,7 @@
   <tr>
     <td>Lexus</td>
     <td>Lexus RX SUV</td>
-    <td>Japan</td>
+ <td>Japan</td>
   </tr>
   <tr>
     <td>Audi </td>
@@ -54,7 +55,7 @@
      <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/riLPAD2vMXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
   <hr>
-    </html>
+</style>
 
 <style>
 body {
